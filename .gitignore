@@ -1,0 +1,12 @@
+# Rendered output
+build/
+
+# Local AI assistant guidance (never commit)
+CLAUDE.md
+**/CLAUDE.md
+
+# macOS / editor cruft
+.DS_Store
+*.swp
+.vscode/
+.idea/
