@@ -1,7 +1,7 @@
 ---
 title: "Trust, but Verify"
 subtitle: "The security risks of AI-generated and vibe-coded software"
-author: "Arjun Myanger"
+author: "amyanger"
 date: "2026-06-26"
 abstract: |
   AI coding assistants write a large and growing share of the software we

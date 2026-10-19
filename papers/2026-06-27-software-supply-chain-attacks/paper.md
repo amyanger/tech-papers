@@ -1,7 +1,7 @@
 ---
 title: "The Weakest Link"
 subtitle: "How attackers compromise software supply chains"
-author: "Arjun Myanger"
+author: "amyanger"
 date: "2026-06-27"
 abstract: |
   Modern software is assembled, not written. A typical application is mostly

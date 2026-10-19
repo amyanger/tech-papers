@@ -1,7 +1,7 @@
 ---
 title: "Paper Title"
 subtitle: "Optional subtitle"
-author: "Arjun Myanger"
+author: "amyanger"
 date: "YYYY-MM-DD"
 abstract: |
   One paragraph: the problem, what this paper argues or shows, and the
